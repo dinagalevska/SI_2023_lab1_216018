@@ -1,0 +1,38 @@
+C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>git log
+commit cc9f646ceff2ea99fe1775bf80deb80dc2c2b87f (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: dinagalevska <66796907+dinagalevska@users.noreply.github.com>
+Date:   Thu Mar 23 20:19:25 2023 +0100
+
+    Fix method sumEvenNumbers
+
+commit 0931c462e19d1340285b8d3525a18bdde17ff225
+Merge: 26ab6d4 a0daf5b
+Author: dinagalevska <66796907+dinagalevska@users.noreply.github.com>
+Date:   Thu Mar 23 20:22:31 2023 +0100
+
+    Merge branch 'bug2'
+
+commit a0daf5b9f0860b196e6a161840c49eb89403b4b8 (origin/bug2, bug2)
+Author: dinagalevska <66796907+dinagalevska@users.noreply.github.com>
+Date:   Thu Mar 23 20:18:25 2023 +0100
+
+    Fix wrong condition in filterOddNumbers
+
+commit 26ab6d4c78424babaec39c6e50bae3254b77f2ff (origin/bug1, bug1)
+Author: dinagalevska <66796907+dinagalevska@users.noreply.github.com>
+Date:   Thu Mar 23 20:17:23 2023 +0100
+
+    Fix wrong loop for reading
+
+commit 1a87502954e70be9ec456fcdc3381fd4f654ca5f
+Author: dinagalevska <66796907+dinagalevska@users.noreply.github.com>
+Date:   Thu Mar 23 20:14:57 2023 +0100
+
+    Add java class
+
+commit 5c83430511b23d79bb3a92a89f8a59a6e3c37af7
+Author: dinagalevska <66796907+dinagalevska@users.noreply.github.com>
+Date:   Thu Mar 23 20:13:22 2023 +0100
+
+    Initial commit
+(END)

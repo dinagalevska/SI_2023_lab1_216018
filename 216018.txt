@@ -1,0 +1,79 @@
+4. C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>git init
+Initialized empty Git repository in C:/Users/becut/Desktop/dina/fax/semestar 4/SI/SI_2023_lab1_216018/.git/
+
+5.C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>git remote add origin https://github.com/dinagalevska/SI_2023_lab1_216018.git
+
+6.C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>git add README.md
+C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>git commit -m "Initial commit"
+
+7.C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>type nul > SILab1.java
+
+C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>notepad SILab1.java
+
+C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>git add SILab1.java
+
+C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>git commit -m "Add java class"
+
+8.C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>git push -u origin master
+9.C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>git branch bug1
+
+C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>git branch bug2
+
+C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>git branch bug3
+10.C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>git checkout bug1
+11.C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>notepad SILab1.java
+
+C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>git add SILab1.java
+
+C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>git commit -m "Fix wrong loop for reading"
+12.C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>git checkout bug2
+13.
+C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>notepad SILab1.java
+
+C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>git add SILab1.java
+
+C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>git commit -m "Fix wrong condition in filterOddNumbers"
+14.
+C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>git checkout bug3
+15.
+C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>notepad SILab1.java
+
+C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>git add SILab1.java
+
+C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>git commit -m "Fix method sumEvenNumbers"
+16.
+C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>git push origin --all
+
+17.
+C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>git checkout master
+18.C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>git merge bug1
+fast-forward merge
+19.
+C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>git push origin --all
+20.
+recursive merge без конфликти
+C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>git merge bug2
+21.
+C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>git push origin --all
+22.
+C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>git checkout bug3
+23.
+C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>git rebase master
+C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>git push --force origin bug3
+24.
+C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>git checkout master
+25.
+C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>git merge bug3
+Fast-forward
+26.
+C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>git push origin --all
+27.
+C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>git log
+C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>git add --all
+
+C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>git commit -m "Final commit"
+28.
+C:\Users\becut\Desktop\dina\fax\semestar 4\SI\SI_2023_lab1_216018>git push origin --all
+
+
+
